@@ -27,4 +27,12 @@ Shows at the start of each frame how many pixels have we transitioned from where
 | start: | 190px  | 380px  | 570px  | 760px  | 950px  | 1140px | 1330px | 1520px | 1710px | 1900px |
 | end:   | 0px    | 190px  | 380px  | 570px  | 760px  | 950px  | 1140px | 1330px | 1520px | 1710px |
 
-[1]: https://codepen.io/Guilh/pen/yldGp
+### Resources 
+
+[Read Up On][2]
+
+[More Examples][3]
+
+[1]: https://codepen.io/Guilh/pen/yldGp "Visual Example"
+[2]: https://designmodo.com/steps-css-animations/ "Resource #1"
+[3]: https://designmodo.com/demo/stepscss/progress.html "Resource #1 Examples"
