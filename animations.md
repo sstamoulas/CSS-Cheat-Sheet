@@ -1,3 +1,13 @@
+# Section 1
+
+## CUBIC BEZIER TIMING FUNCTION
+
+#### [View Details][1.1]
+
+[1.1]: https://cubic-bezier.com/#0,.3,1,.7 "Cubic Bezier Resource"
+
+# Section 2
+
 ## CSS STEPS TIMING FUNCTION
 ### Function: Allows us to break an animation or transition into segments, rather than one continuous transition from one state to another. 
 ### Parameters: 
@@ -6,7 +16,7 @@
     + start: Each frame animation will execute at the start of each frame duration.
     + end: **(default)** Each frame animation will execute at the end of each frame duration.
 
-#### [View Visual Example][1]
+#### [View Visual Example][2.1]
 
 #### Example: 
     animation: play 1s steps(10) infinite;
@@ -29,10 +39,10 @@ Shows at the start of each frame how many pixels have we transitioned from where
 
 ### Resources 
 
-[Read Up On][2]
+[Read Up On][2.2]
 
-[More Examples][3]
+[More Examples][2.3]
 
-[1]: https://codepen.io/Guilh/pen/yldGp "Visual Example"
-[2]: https://designmodo.com/steps-css-animations/ "Resource #1"
-[3]: https://designmodo.com/demo/stepscss/progress.html "Resource #1 Examples"
+[2.1]: https://codepen.io/Guilh/pen/yldGp "Visual Example"
+[2.2]: https://designmodo.com/steps-css-animations/ "Resource #1"
+[2.3]: https://designmodo.com/demo/stepscss/progress.html "Resource #1 Examples"
